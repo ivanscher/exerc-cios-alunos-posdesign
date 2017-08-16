@@ -1,0 +1,39 @@
+header{
+    background: url(http://placehold.it/1920x400) top no-repeat;
+    height: 400px
+}
+header ul li{
+    display: inline-block; margin-right: 10px;  
+}
+section div img {
+    -webkit-border-radius:50px;
+    border-radius: 50px;
+}
+#video{
+    background-color: rgba(0,0,0,.15);
+    padding: 20px 0;
+}
+#video input{
+    background-color: white;
+    -webkit-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+    float:left;
+    width: 70%;
+    height: 36px;
+    padding-left: 5px;
+}
+footer ul li{
+    display: inline-block; margin-right: 10px;  
+}
+svg{
+        max-width: 70%;
+    height: auto;
+    fill: white;
+    margin: 6px 0;
+}
+/*
+.btn-floating{
+    width: 25px;
+    height: 25px;  
+}
+*/

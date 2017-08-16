@@ -1,0 +1,39 @@
+header {
+   background: url("Ro1.jpg") top no-repeat;
+   background-size: cover;
+   height: 400px;
+   border-top: 10px solid chocolate; 
+}
+.row{
+    margin: 0;
+}
+
+#corvideo {
+    padding: 30px 0;
+    background: chocolate;
+}
+
+footer p {
+    text-align: center;   
+}
+
+footer ul {
+    padding: 0;
+    align-content: center;
+    text-align: center;
+   
+}
+footer ul li{
+    display: inline-block
+}
+
+#segundasecao {
+    text-align: center;
+    padding: 30px 0;
+}
+
+header p,
+header h1{
+    color: white;
+    
+}

@@ -1,0 +1,101 @@
+h3{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+nav .brand-logo{
+    margin: 0;
+    line-height: 64px;
+    padding: 0 15px;
+}
+
+aside img{
+    -webkit-border-radius: 50%;
+    border-radius: 50%
+}
+
+.card-title{
+    padding: 5px 24px 0;
+}
+
+.hero{
+    background-image: url('img/Dark-Modern-Office-Background1.png') ;
+    background-size: cover;
+    background-position: 50% 70%;
+    padding: 64px 0 0 0;
+    border-top: 8px solid #00b3e3;
+}
+
+.hero h1{
+        font-size: 34px;
+        color: white;
+}
+
+.hero h2{
+        font-size: 16px;
+         color: white;
+}
+.hero img{
+    position: relative;
+    bottom: -7px;
+}
+
+.icon-btn{
+    border-radius:50%;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    margin: 0 2px;
+    
+}
+
+.icon-btn i{
+    color: #fff;
+    line-height: inherit;
+    font-size: 1em;
+
+}
+
+.bullet-section{
+    padding: 32px 0;
+}
+
+.bullet-icon{
+    border-radius:50%;
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bullet-icon i{
+    color: #fff;
+    line-height: inherit;
+    font-size: 2em;
+}
+
+.bullet-block{
+    text-align: center;
+}
+
+.CTA{
+   text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.secao-cinza{
+    background-color:#efefef ;
+    padding: 32px 0;
+    margin: 0;
+}
